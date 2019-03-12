@@ -1,0 +1,2 @@
+## Run Integration tests
+script: "mvn -B verify robotframework:libdoc
